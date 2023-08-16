@@ -1,0 +1,23 @@
+#data type conversion
+num_string="123"
+print(type(num_string))
+num_int=int(num_string)
+print(type(num_int))
+num_float=4.4
+num_int=int(num_float)
+print(num_int)
+print(type(num_int))
+num_int=56
+num_float=float(num_int)
+print(num_float)
+print(type(num_float))
+num_int=143
+num_str=str(num_int)
+print(num_str)
+print(type(num_str))
+num_int=100
+num_bool=bool(num_int)
+print(num_bool)
+num_str="false"
+num_bool=bool(num_str)
+print(num_bool)

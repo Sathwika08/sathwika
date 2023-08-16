@@ -1,0 +1,20 @@
+#BODMASS RULE
+print( 10+5 * (2 ** 3) -6/2 )
+print("")
+print(10 / 2 + 3)
+print("")
+print(10 / (2 + 3))
+print("")
+print(10 + 3 * 2 - 8 / 4)
+print("")
+print(4 ** 2 + 5 / 2 * 3)
+print("")
+print((8 + 4) * 3 / 2)
+print("")
+print(16 / 4 + 2 ** 3 - 6)
+print("")
+print(10 - 3 * (4 + 2) / 5)
+print("")
+a=10+6 
+b=6 
+print (a/b)
